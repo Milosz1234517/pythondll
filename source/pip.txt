@@ -1,0 +1,1 @@
+pip install git+ssh://git@git.e-science.pl/iromanowski_252806_dpp/iromanowski252806_pythonnative.git@0.1

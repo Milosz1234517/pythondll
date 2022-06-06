@@ -1,0 +1,9 @@
+README.md
+setup.py
+Interpolation.egg-info/PKG-INFO
+Interpolation.egg-info/SOURCES.txt
+Interpolation.egg-info/dependency_links.txt
+Interpolation.egg-info/top_level.txt
+interpolation/__init__.py
+interpolation/main.py
+interpolation/native.dll
